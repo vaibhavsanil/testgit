@@ -1,3 +1,9 @@
 HTTP STATUS
 
 200 OK --- Everything Worked Fine
+
+400 NOOK --- Bad Request
+
+404 Not Found --- 404 Status
+
+
